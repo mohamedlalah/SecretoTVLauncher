@@ -7,6 +7,18 @@ Developed and customized by **Mohamed LALAH** · **SecretoTools** · **SecretofN
 [![YouTube Membership](https://img.shields.io/badge/YouTube-Join%20the%20channel-red?logo=youtube)](https://www.youtube.com/channel/UCLNy0tm-eDhKIlTSjh2VBGg/join)
 [![Website](https://img.shields.io/badge/Website-SecretoTools-00bcd4)](https://secretotools.com)
 
+![Secreto TV Launcher promotional banner](banner.png)
+
+### Screenshots · صور التطبيق · Captures d’écran
+
+| Home screen · الواجهة الرئيسية | Settings · الإعدادات |
+|:--:|:--:|
+| ![Home screen](home.jpeg) | ![Launcher settings](settings.jpeg) |
+
+**App management · إدارة التطبيقات · Gestion des applications**
+
+![App management and hide-app dialog](app-management.jpeg)
+
 ## 🇬🇧 English
 
 Secreto TV Launcher provides a clean, customizable TV home screen designed for use with a remote control.
