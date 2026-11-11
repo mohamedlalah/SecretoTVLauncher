@@ -7,9 +7,9 @@ Developed and customized by **Mohamed LALAH** · **SecretoTools** · **SecretofN
 [![YouTube Membership](https://img.shields.io/badge/YouTube-Join%20the%20channel-red?logo=youtube)](https://www.youtube.com/channel/UCLNy0tm-eDhKIlTSjh2VBGg/join)
 [![Website](https://img.shields.io/badge/Website-SecretoTools-00bcd4)](https://secretotools.com)
 
-**Latest stable release: v1.3.0** · Android TV / Google TV · Android 8.0+
+**Latest stable release: v1.3.2** · Android TV / Google TV · Android 8.0+
 
-[**⬇ Download signed APK v1.3.0**](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.0/SecretoTVLauncher-v1.3.0-vc8.apk) · [Release notes](https://github.com/mohamedlalah/SecretoTVLauncher/releases/tag/v1.3.0) · [SHA-256 checksum](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.0/SHA256SUMS.txt)
+[**⬇ Download signed APK v1.3.2**](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.2/SecretoTVLauncher-v1.3.2-vc10.apk) · [Release notes](https://github.com/mohamedlalah/SecretoTVLauncher/releases/tag/v1.3.2) · [SHA-256 checksum](https://github.com/mohamedlalah/SecretoTVLauncher/releases/tag/v1.3.2#apk-verification)
 
 ![Secreto TV Launcher promotional banner](banner.png)
 
@@ -41,7 +41,7 @@ Secreto TV Launcher provides a clean, customizable TV home screen designed for u
 
 **Other highlights:** Favorites, app organization and search, quick settings access, HDMI input shortcuts on supported Xiaomi TVs, and an About & Support page with YouTube Membership and GitHub Sponsors QR codes.
 
-**Download:** [Signed APK v1.3.0](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.0/SecretoTVLauncher-v1.3.0-vc8.apk) · [All releases](https://github.com/mohamedlalah/SecretoTVLauncher/releases). Requires Android 8.0+ (API 26+). Features and compatibility may vary by device.
+**Download:** [Signed APK v1.3.2](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.2/SecretoTVLauncher-v1.3.2-vc10.apk) · [All releases](https://github.com/mohamedlalah/SecretoTVLauncher/releases). Requires Android 8.0+ (API 26+). Features and compatibility may vary by device.
 
 **Install:** Download the APK, transfer it to your Android TV / Google TV device and install it using your preferred APK installer. If prompted, allow installation from that installer. Open Secreto TV Launcher and choose it as your Home app if your device supports changing the default launcher. Keep your original launcher available until you have tested everything.
 
@@ -59,7 +59,7 @@ Secreto TV Launcher provides a clean, customizable TV home screen designed for u
 
 **مميزات أخرى:** المفضلة وتنظيم التطبيقات والبحث، واختصارات الإعدادات ومداخل HDMI على أجهزة Xiaomi المتوافقة، وصفحة دعم تحتوي على رمزي QR لعضوية SecretofNet ودعم GitHub Sponsors.
 
-**التحميل:** [تنزيل APK الرسمي الموقّع v1.3.0](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.0/SecretoTVLauncher-v1.3.0-vc8.apk) أو زيارة [جميع الإصدارات](https://github.com/mohamedlalah/SecretoTVLauncher/releases). يتطلب Android 8.0 أو أحدث، وقد تختلف بعض الميزات بحسب الجهاز.
+**التحميل:** [تنزيل APK الرسمي الموقّع v1.3.2](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.2/SecretoTVLauncher-v1.3.2-vc10.apk) أو زيارة [جميع الإصدارات](https://github.com/mohamedlalah/SecretoTVLauncher/releases). يتطلب Android 8.0 أو أحدث، وقد تختلف بعض الميزات بحسب الجهاز.
 
 **التثبيت:** حمّل ملف APK وانقله إلى التلفاز، ثم ثبّته باستخدام تطبيق تثبيت مناسب. افتح اللانشر وعيّنه كواجهة رئيسية إن كان جهازك يسمح بذلك. يُنصح بالإبقاء على الواجهة الأصلية حتى انتهاء التجربة.
 
@@ -77,7 +77,7 @@ Secreto TV Launcher provides a clean, customizable TV home screen designed for u
 
 **Autres fonctions :** favoris, organisation et recherche des applications, raccourcis des paramètres, accès HDMI sur certains téléviseurs Xiaomi compatibles, et page de soutien avec QR codes YouTube et GitHub Sponsors.
 
-**Téléchargement :** [APK signé v1.3.0](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.0/SecretoTVLauncher-v1.3.0-vc8.apk) · [Toutes les versions](https://github.com/mohamedlalah/SecretoTVLauncher/releases). Android 8.0 minimum ; certaines fonctions dépendent de l’appareil.
+**Téléchargement :** [APK signé v1.3.2](https://github.com/mohamedlalah/SecretoTVLauncher/releases/download/v1.3.2/SecretoTVLauncher-v1.3.2-vc10.apk) · [Toutes les versions](https://github.com/mohamedlalah/SecretoTVLauncher/releases). Android 8.0 minimum ; certaines fonctions dépendent de l’appareil.
 
 **Installation :** transférez l'APK sur le téléviseur et installez-le avec un installateur adapté. Sélectionnez ce lanceur comme écran d'accueil si votre appareil le permet. Conservez le lanceur d'origine pendant les essais.
 
